@@ -1,7 +1,6 @@
 # Introducción a las Ciencias de la Computación
-## Práctica04
-El objetivo de esta práctica es que el alumno sea capaz de crear una clase a partir de la
-definición de un problema.
+## Práctica05
+El objetivo de esta práctica es que el alumno comprenda el concepto de paquetes para agrupar clases y al final sea capaz de crear sus propios paquetes.
 ## Alumno
 (Nombre) (ApellidoPaterno) (ApellidoMaterno)
 
